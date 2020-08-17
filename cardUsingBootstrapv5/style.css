@@ -1,0 +1,15 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+body {
+	background-color: #ddd;
+}
+.container {
+	width: 600px;
+	margin: 50px auto;
+}
+.card {
+	border: 5px solid black;
+}
